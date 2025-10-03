@@ -1,0 +1,64 @@
+.icon-t{
+    margin-right: 15px;
+}
+
+
+.shop{
+    width: 199px;
+    height: 60px;
+    padding: 10px 15px;
+    background-color: #F86D72;
+    color: white;
+    border: none;
+    border-radius: 50px;
+}
+
+.shop:hover{
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+
+.card-i{
+    width: 350px;
+    height: 496px;
+    
+
+}
+
+.card-img{
+    padding-top: 20px;
+}
+
+.img-t{
+    line-height: 5px;
+}
+
+.card-img-t{
+    margin-top: 20px;
+    
+    
+}
+
+.image-g{
+  
+}
+
+.image-g img{
+     width: 400px;
+    height: 244px;
+    border-radius: 5px;
+}
+
+
+.pay-group{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pay-t{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
